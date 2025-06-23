@@ -1,0 +1,37 @@
+{
+  "name": "3d-earth",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "9.96.0",
+    "@react-three/fiber": "8.18.0",
+    "@react-three/rapier": "^1.4.0",
+    "@studio-freight/lenis": "^1.0.25",
+    "@tailwindcss/postcss": "^4.1.10",
+    "framer-motion": "^10.16.4",
+    "framer-motion-3d": "^10.16.4",
+    "leva": "^0.9.35",
+    "meshline": "^3.3.1",
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "0.165.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "18.2.0",
+    "@types/react-dom": "18.2.0",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
